@@ -1,4 +1,4 @@
-package com.coderxw.springcloudeurekaclient;
+package com.coderxw.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
